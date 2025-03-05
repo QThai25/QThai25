@@ -1,5 +1,5 @@
 ✨ QThai25 - Web Developer ✨
-👋 Hello! I'm QThai25, a passionate web development student with strong skills in Java, JSP, HTML, CSS, JavaScript, Bootstrap, and ReactJS.
+👋 Hello! I'm Quoc Thai, a passionate web development student with strong skills in Java, JSP, HTML, CSS, JavaScript, Bootstrap, and ReactJS.
     I'm eager to learn, grow, and contribute to real-world projects.
 
 🚀 About Me
