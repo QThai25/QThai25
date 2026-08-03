@@ -45,4 +45,3 @@
 
 
 ⚡ Fun fact: I can code for hours without getting bored, but I might spend an entire day just choosing the perfect VS Code theme! 😆
-dựa vào tất cả những gì t đã làm viết giới thiệu cho t đi
