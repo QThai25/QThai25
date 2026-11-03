@@ -1,47 +1,89 @@
-✨ QThai25 - Web Developer ✨
+# ✨ QThai25 — Fresher Full-stack Developer
 
-👋 Hello! I'm Quoc Thai, a passionate web development student with strong skills in Java, JSP, HTML, CSS, JavaScript, Bootstrap, and ReactJS.
-   
-    I'm eager to learn, grow, and contribute to real-world projects.
+👋 Hi! I'm Vo Quoc Thai, a Software Engineering graduate and Fresher Full-stack Developer with a backend focus.
 
-🚀 About Me
+I enjoy building practical web applications using Node.js, Express.js, React, Java, Spring Boot, MongoDB, and PostgreSQL.
 
-🔹 Passionate about: Building modern, high-performance web applications.
+## 🚀 About Me
 
-🔹 Experience: Developed personal projects and university assignments using JSP, Spring Boot, and ReactJS.
+- 🎓 Bachelor of Software Engineering at FPT University
+- 💼 Software Developer Intern at FPT Software Can Tho
+- 🔧 Focused on backend development with Node.js/Express.js and Java/Spring Boot
+- 🌐 Experienced in building and deploying full-stack web applications
+- 🎯 Goal: Become a strong Full-stack Developer and continuously improve my backend and system development skills
 
-🔹 Goal: Becoming a full-stack developer and mastering the latest web technologies.
+## 🛠 Technical Skills
 
-🛠 Technical Skills
+### Programming Languages
+Java, JavaScript, C, HTML5, CSS3
 
-✅ Back-end: Java, JSP/Servlet, Spring Boot, Jakarta EE
+### Frontend
+React.js, React Native, Vite, Tailwind CSS, Axios
 
-✅ Front-end: HTML, CSS, JavaScript, Bootstrap, ReactJS
+### Backend
+Node.js, Express.js, Spring Boot, RESTful APIs
 
-✅ Database: MySQL, PostgreSQL
+### Databases
+MongoDB, Mongoose, MySQL, PostgreSQL, Redis
 
-✅ Tools & Frameworks: Git, Docker, Postman, RESTful API
+### Tools and Deployment
+Git, GitHub, GitLab, Postman, Docker, Nginx, PM2, Vercel, Ubuntu VPS
 
-✅ Others: Agile/Scrum, Basic CI/CD
+### Authentication and Integrations
+JWT, RBAC, Socket.IO, Cloudinary, PayOS, VNPay, FFmpeg
 
-📌 Notable Projects
+### Methodologies
+Agile, Scrum, SDLC
 
-1️⃣ E-Commerce Toy Store - Built an online toy store using Jakarta EE, JSP, Bootstrap, and MySQL.
+## 💼 Experience
 
+### Software Developer Intern — FPT Software Can Tho
 
-2️⃣ Shoe Store Website - Developed a dynamic shoe e-commerce platform with JSP, Java, HTML, CSS, Bootstrap, JavaScript, and MySQL. 
-    Features include product filtering, cart management, and user authentication.
+**June 2025 – September 2025**
 
+- Developed frontend and backend application modules using Java, Spring Boot, React, and PostgreSQL.
+- Implemented API features and database operations for enterprise applications.
+- Collaborated with team members through GitLab and Agile/Scrum workflows.
+- Participated in debugging, code reviews, software testing, and technical documentation.
 
-3️⃣ Electronic Components Store - Created an online marketplace for electronic components using JSP, Java, HTML, CSS, Bootstrap, JavaScript, and MySQL. 
-    Implemented secure transactions, order tracking, and admin management.
+## 📌 Featured Projects
 
+### 🧥 ARA Dress — Costume Rental Platform
 
-💡 Connect With Me
+A full-stack costume rental platform consisting of a customer application, admin dashboard, and backend REST API.
 
-📧 Email: thaivo307@gmail.com
+- Built with React, Node.js, Express.js, and MongoDB.
+- Implemented product browsing, rental scheduling, cart, checkout, wishlist, guest order lookup, and order tracking.
+- Developed admin features for inventory, rental orders, payments, refunds, staff, reports, and permissions.
+- Implemented JWT authentication and role-based access control.
+- Integrated Socket.IO, Cloudinary, and PayOS.
+- Deployed using Vercel, Ubuntu VPS, PM2, Nginx, and Docker Compose.
 
-💼 LinkedIn: www.linkedin.com/in/thái-thái-0b3965354
+🌐 Live Website: [aradress.com](https://aradress.com/)  
+💻 Source Code: [github.com/QThai25/Ara](https://github.com/QThai25/Ara)
 
+### 🎵 Reso — Unlimited Rhythm
 
-⚡ Fun fact: I can code for hours without getting bored, but I might spend an entire day just choosing the perfect VS Code theme! 😆
+A music streaming platform for web and mobile.
+
+- Developed features using React, React Native, Node.js, Express.js, and MongoDB.
+- Implemented music playback, playlists, recommendations, synchronized lyrics, podcasts, and dashboards.
+- Integrated Socket.IO, Cloudinary, FFmpeg, Redis, and VNPay.
+
+### 🎬 Movie Ticket Sales Website
+
+A movie booking platform developed as a team project.
+
+- Led the development team.
+- Built movie browsing, showtime selection, seat selection, and ticket reservation features.
+- Developed RESTful APIs using Java and Spring Boot.
+- Designed PostgreSQL database schemas for users, movies, cinemas, bookings, seats, showtimes, and payments.
+
+## 📫 Connect With Me
+
+- 📧 Email: [thaivo307@gmail.com](mailto:thaivo307@gmail.com)
+- 💻 GitHub: [github.com/QThai25](https://github.com/QThai25)
+- 🌐 Project Website: [aradress.com](https://aradress.com/)
+- 💼 LinkedIn: [linkedin.com/in/thái-thái-0b3965354](https://www.linkedin.com/in/th%C3%A1i-th%C3%A1i-0b3965354/)
+
+⚡ Fun fact: I can code for hours without getting bored, but I might spend an entire day choosing the perfect VS Code theme! 😆
