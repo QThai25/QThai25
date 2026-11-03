@@ -86,4 +86,3 @@ A movie booking platform developed as a team project.
 - 🌐 Project Website: [aradress.com](https://aradress.com/)
 - 💼 LinkedIn: [linkedin.com/in/thái-thái-0b3965354](https://www.linkedin.com/in/th%C3%A1i-th%C3%A1i-0b3965354/)
 
-⚡ Fun fact: I can code for hours without getting bored, but I might spend an entire day choosing the perfect VS Code theme! 😆
